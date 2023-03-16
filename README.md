@@ -4,7 +4,8 @@ Je suis un développeur Back-End passionné par l'informatique et spécialisé d
 Je m'intéresse également la création de systèmes et à la sécurité informatique.
 J'aime constamment découvrir de nouveaux domaines et partager mon savoir-faire.
 
-Il y a quelques années, j'ai pris conscience de mon désir de devenir développeur. J'ai donc entamé un apprentissage en autodidacte, en suivant divers cours en ligne. Par la suite, j'ai commencé à m'impliquer dans des projets personnels.  
+Il y a quelques années, j'ai pris conscience de mon désir de devenir développeur.    
+J'ai donc entamé un apprentissage en autodidacte, en suivant divers cours en ligne. Par la suite, j'ai commencé à m'impliquer dans des projets personnels.  
 
 📌 Je vous invite à explorer les projets épinglés pour en savoir plus.
 
