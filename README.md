@@ -1,11 +1,12 @@
 ### Qui suis-je ?
 
-Je suis développeur Back-End 💻 qui aime travailler avec Ruby / Rails. Je suis également fan de la conception de base de données 👨‍💻, la conception de systèmes et m'intéresse à la sécurité informatique.
-J'aime également apprendre de nouvelles choses et partager mes connaissances.
+Je suis un développeur Back-End passionné par l'informatique et spécialisé dans l'utilisation de Ruby / Rails.
+Je m'intéresse également la création de systèmes et à la sécurité informatique.
+J'aime constamment découvrir de nouveaux domaines et partager mon savoir-faire.
 
-Il y a quelques années, j'ai réalisé que je voulais devenir développeur. J'ai donc commencé à apprendre par moi-même, en suivant des cours en ligne. 
-J'ai ensuite commencé à travailler sur des projets personnels.  
-N'hésitez pas à faire un tour sur les projets épinglé 📌.
+Il y a quelques années, j'ai pris conscience de mon désir de devenir développeur. J'ai donc entamé un apprentissage en autodidacte, en suivant divers cours en ligne. Par la suite, j'ai commencé à m'impliquer dans des projets personnels.  
+
+📌 Je vous invite à explorer les projets épinglés pour en savoir plus.
 
 <br />
 
