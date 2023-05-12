@@ -15,9 +15,9 @@
 
 #### 📖 &nbsp;&nbsp;[monblog.fr](https://clean-blog-production.up.railway.app/): Les derniers articles
  
-* [Améliorez votre historique de code avec Gitm😎ji](https://clean-blog-production.up.railway.app/articles/ameliorez-votre-historique-de-code-avec-gitmoji) 
-* [Le modèle MVC en résumé](https://clean-blog-production.up.railway.app/articles/le-modele-mvc-en-resume) 
-* [Ruby on Rails et son univers !](https://clean-blog-production.up.railway.app/articles/ruby-on-rails-et-son-univers) 
+* [Comment renommer une application Rails](https://clean-blog-production.up.railway.app/articles/comment-renommer-une-application-rails) 
+* [Mettre en place une authentification avec Devise dans Ruby on Rails](https://clean-blog-production.up.railway.app/articles/mettre-en-place-une-authentification-avec-devise-dans-ruby-on-rails) 
+* [Donner vie à l'authentification : Un projet Ruby on Rails avec Devise 🚀](https://clean-blog-production.up.railway.app/articles/donner-vie-a-l-authentification-un-projet-ruby-on-rails-avec-devise) 
 
 <br />
 
