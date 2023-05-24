@@ -1,12 +1,13 @@
-### Qui suis-je ?
+### Qui je suis ?
 
-💻 Je suis un développeur Back-End passionné par l'informatique et spécialisé dans l'utilisation de Ruby / Rails. Je suis un grand fan de l'élégance de Ruby, ainsi que la syntaxe et de l'accent mis sur le bonheur des programmeurs. Je suis constamment en quête de nouveaux domaines de connaissances et je prends plaisir à partager mon savoir-faire.
+💻 Je suis Florent, un développeur web qui voit au-delà du code et qui a toujours pour objectif de construire et d'enrichir des projets avec passion et créativité.
 
-📚 Il y a quelques années, j'ai pris conscience de mon désir de devenir développeur.  
+📚 Mon intérêt pour ce domaine a été éveillé lorsque j’ai compris que la culture de la programmation reposait beaucoup sur l'apprentissage par les pairs, le partage, l'open source et l'entraide. 
+J'ai appris le framework Ruby on Rails en autodidacte, et cette approche m'a ouvert une multitude d'opportunités.
 
-🎓 J'ai donc commencé un apprentissage en autodidacte en suivant différents cours en ligne. Par la suite, j'ai commencé à m'investir dans des projets personnels pour mettre en pratique mes compétences.
+🎓 J'ai travaillé sur une variété de projets, des sites web dédiés à l'estimation de cartes à jouer, à ceux encourageant à lire davantage, et même à ceux proposant des idées de prénoms.
 
-📌 N'hésitez pas à explorer les projets que j'ai épinglés pour en savoir plus sur mes réalisations.
+📌 Ce qui compte pour moi, c'est l'idée, l'envie et l'énergie qui sont mises dans chaque projet. Je suis toujours prêt à apporter ma contribution et à aider à transformer une idée en réalité.
 
 <br />
 
@@ -24,10 +25,6 @@
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
   <code><img width="8%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
