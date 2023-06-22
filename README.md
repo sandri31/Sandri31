@@ -32,7 +32,7 @@ J'ai appris le framework Ruby on Rails en autodidacte, et cette approche m'a ouv
   <br />
     
 ### Me contacter :
-  [![img_contact](./img/globe-light.svg)](https://clean-blog-production.up.railway.app/#gh-light-mode-only)
-  [![img_contact](./img/globe-dark.svg)](https://clean-blog-production.up.railway.app/#gh-dark-mode-only)
+  [![img_contact](./img/globe-light.svg)](https://www.linkedin.com/in/florent-sandri/#gh-light-mode-only)
+  [![img_contact](./img/globe-dark.svg)](https://www.linkedin.com/in/florent-sandri/#gh-dark-mode-only)
   &nbsp;&nbsp;
 
