@@ -16,10 +16,10 @@ J'ai appris le framework Ruby on Rails en autodidacte, et cette approche m'a ouv
 
 #### 📖 &nbsp;&nbsp;[monblog.fr](https://clean-blog-production.up.railway.app/): Les derniers articles
 
+* [Optimiser les Performances de Rails avec Sidekiq et Redis](https://clean-blog-production.up.railway.app/articles/une-fete-d-anniversaire-technologique-plongee-dans-sidekiq-et-redis)
 * [Comprendre et optimiser ActiveRecord dans Ruby on Rails](https://clean-blog-production.up.railway.app/articles/comprendre-et-optimiser-activerecord-dans-ruby-on-rails)
 * [Comment renommer une application Rails](https://clean-blog-production.up.railway.app/articles/comment-renommer-une-application-rails) 
 * [Mettre en place une authentification avec Devise dans Ruby on Rails](https://clean-blog-production.up.railway.app/articles/mettre-en-place-une-authentification-avec-devise-dans-ruby-on-rails) 
-* [Donner vie à l'authentification : Un projet Ruby on Rails avec Devise 🚀](https://clean-blog-production.up.railway.app/articles/donner-vie-a-l-authentification-un-projet-ruby-on-rails-avec-devise) 
 
 <br />
 
