@@ -18,7 +18,7 @@ J'ai appris le framework Ruby on Rails en autodidacte, et cette approche m'a ouv
 
 * [Une Exploration des concepts CI/CD](https://clean-blog-production.up.railway.app/articles/une-exploration-des-concepts-ci-cd)
 * [Les Mystères Démystifiés : Comment Fonctionne Internet ?](https://clean-blog-production.up.railway.app/articles/les-mysteres-demystifies-comment-fonctionne-internet)
-* [Optimiser les Performances de Rails avec Sidekiq et Redis](https://clean-blog-production.up.railway.app/articles/une-fete-d-anniversaire-technologique-plongee-dans-sidekiq-et-redis)
+* [Optimiser les Performances de Rails avec Sidekiq et Redis](https://clean-blog-production.up.railway.app/articles/optimiser-les-performances-de-rails-avec-sidekiq-et-redis)
 * [Comprendre et optimiser ActiveRecord dans Ruby on Rails](https://clean-blog-production.up.railway.app/articles/comprendre-et-optimiser-activerecord-dans-ruby-on-rails)
 
 <br />
