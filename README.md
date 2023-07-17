@@ -10,7 +10,7 @@ Je partage ma passion et mon travail à travers ce [blog](https://clean-blog-pro
 
 #### 🎓 Contribuer à la communauté :
 
-Je travaille également sur des projets open source que vous pouvez consulter sur cette plateforme. 
+Je travaille également sur des projets open source que vous pouvez consulter sur cette plateforme.  
 Partager mes connaissances et aider les autres à progresser dans leurs propres apprentissages est une  
 expérience particulièrement enrichissante.
 
