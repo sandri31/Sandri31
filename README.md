@@ -1,25 +1,33 @@
 ### Qui je suis ?
 
-💻 Je suis Florent, un développeur web qui voit au-delà du code et qui a toujours pour objectif de construire et d'enrichir des projets avec passion et créativité.
+#### 💼 Mon parcours et ma passion :
 
-📚 Mon intérêt pour ce domaine a été éveillé lorsque j’ai compris que la culture de la programmation reposait beaucoup sur l'apprentissage par les pairs, le partage, l'open source et l'entraide. 
-J'ai appris le framework Ruby on Rails en autodidacte, et cette approche m'a ouvert une multitude d'opportunités.
+Je suis un développeur qui adore travailler avec Ruby. J'aime beaucoup créer et améliorer des applications.  
+Je suis toujours à la recherche de nouvelles façons de rendre ces applications plus efficaces et performantes.  
 
-🎓 J'ai travaillé sur une variété de projets, des sites web dédiés à l'estimation de cartes à jouer, à ceux encourageant à lire davantage, et même à ceux proposant des idées de prénoms.
+Je partage ma passion et mon travail à travers ce [blog](https://clean-blog-production.up.railway.app), où vous trouverez tous les articles que j'écris au fur et  
+à mesure de mes découvertes.
 
-📌 Ce qui compte pour moi, c'est l'idée, l'envie et l'énergie qui sont mises dans chaque projet. Je suis toujours prêt à apporter ma contribution et à aider à transformer une idée en réalité.
+#### 🎓 Contribuer à la communauté :
 
-<br />
+Je travaille également sur des projets open source que vous pouvez consulter ici.  
+Partager mes connaissances et aider les autres à progresser dans leurs propres apprentissages est une  
+expérience particulièrement enrichissante.
+
+#### 👋 Contact :
+
+Je suis toujours ravi de discuter et d'échanger des idées. N'hésitez pas à me laisser un message sur mon [blog](https://clean-blog-production.up.railway.app)  
+grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https://www.linkedin.com/in/florent-sandri/).  
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-#### 📖 &nbsp;&nbsp;[monblog.fr](https://clean-blog-production.up.railway.app/): Les derniers articles
+#### 📖 &nbsp;&nbsp;Les derniers articles
 
+* [Élever à un Nouveau Niveau votre Développement Rails avec RSpec et le TDD](https://clean-blog-production.up.railway.app/articles/elever-a-un-nouveau-niveau-votre-developpement-rails-avec-rspec-et-le-tdd)
 * [Une Exploration des concepts CI/CD](https://clean-blog-production.up.railway.app/articles/une-exploration-des-concepts-ci-cd)
 * [Les Mystères Démystifiés : Comment Fonctionne Internet ?](https://clean-blog-production.up.railway.app/articles/les-mysteres-demystifies-comment-fonctionne-internet)
 * [Optimiser les Performances de Rails avec Sidekiq et Redis](https://clean-blog-production.up.railway.app/articles/optimiser-les-performances-de-rails-avec-sidekiq-et-redis)
-* [Comprendre et optimiser ActiveRecord dans Ruby on Rails](https://clean-blog-production.up.railway.app/articles/comprendre-et-optimiser-activerecord-dans-ruby-on-rails)
 
 <br />
 
