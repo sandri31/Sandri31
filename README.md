@@ -10,9 +10,9 @@ Je partage ma passion et mon travail à travers ce [blog](https://clean-blog-pro
 
 #### 🎓 Contribuer à la communauté :
 
-Je travaille également sur des projets open source que vous pouvez consulter sur cette plateforme.  
-Partager mes connaissances et aider les autres à progresser dans leurs propres apprentissages est une  
-expérience particulièrement enrichissante.
+J'ai créé et travaille sur plusieurs projets open source, tels que [RepaireMagic](https://www.repairemagic.fr/) et [Baby Name Generator](https://baby-names-generator.up.railway.app/).  
+Vous pouvez les consulter et contribuer sur Github. Partager mes travaux et connaissances, et aider les autres  
+à progresser dans leurs apprentissages, est une expérience particulièrement enrichissante pour moi.
 
 #### 👋 Contact :
 
