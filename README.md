@@ -24,10 +24,10 @@ grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https:
 
 #### 📖 &nbsp;&nbsp;Les derniers articles
 
+* [Maîtriser les Routes dans Ruby on Rails: Définition, Optimisation et Personnalisation](https://clean-blog-production.up.railway.app/articles/maitriser-les-routes-dans-ruby-on-rails-definition-optimisation-et-personnalisation)
 * [Élever à un Nouveau Niveau votre Développement Rails avec RSpec et le TDD](https://clean-blog-production.up.railway.app/articles/elever-a-un-nouveau-niveau-votre-developpement-rails-avec-rspec-et-le-tdd)
 * [Une Exploration des concepts CI/CD](https://clean-blog-production.up.railway.app/articles/une-exploration-des-concepts-ci-cd)
 * [Les Mystères Démystifiés : Comment Fonctionne Internet ?](https://clean-blog-production.up.railway.app/articles/les-mysteres-demystifies-comment-fonctionne-internet)
-* [Optimiser les Performances de Rails avec Sidekiq et Redis](https://clean-blog-production.up.railway.app/articles/optimiser-les-performances-de-rails-avec-sidekiq-et-redis)
 
 <br />
 
