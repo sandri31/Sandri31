@@ -22,12 +22,12 @@ grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-#### 📖 &nbsp;&nbsp;Les derniers articles
+#### 📖 &nbsp;&nbsp;Mes 4 derniers articles
 
+* [Plongée dans le processus de création d'une newsletter](https://clean-blog-production.up.railway.app/articles/plongee-dans-le-processus-de-creation-d-une-newsletter)
 * [Maîtriser les Routes dans Ruby on Rails: Définition, Optimisation et Personnalisation](https://clean-blog-production.up.railway.app/articles/maitriser-les-routes-dans-ruby-on-rails-definition-optimisation-et-personnalisation)
 * [Élever à un Nouveau Niveau votre Développement Rails avec RSpec et le TDD](https://clean-blog-production.up.railway.app/articles/elever-a-un-nouveau-niveau-votre-developpement-rails-avec-rspec-et-le-tdd)
 * [Une Exploration des concepts CI/CD](https://clean-blog-production.up.railway.app/articles/une-exploration-des-concepts-ci-cd)
-* [Les Mystères Démystifiés : Comment Fonctionne Internet ?](https://clean-blog-production.up.railway.app/articles/les-mysteres-demystifies-comment-fonctionne-internet)
 
 <br />
 
