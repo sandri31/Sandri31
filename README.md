@@ -24,10 +24,10 @@ grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https:
 
 #### 📖 &nbsp;&nbsp;Mes 4 derniers articles
 
+* [7 Conseils pour Optimiser Votre Application Rails](https://clean-blog-production.up.railway.app/articles/7-conseils-pour-optimiser-votre-application-rails)
 * [Intégrer Bootstrap à Rails 7 : Une Approche Sans Node.js](https://clean-blog-production.up.railway.app/articles/integrer-bootstrap-a-rails-7-une-approche-sans-node-js)
 * [Plongée dans le processus de création d'une newsletter](https://clean-blog-production.up.railway.app/articles/plongee-dans-le-processus-de-creation-d-une-newsletter)
 * [Maîtriser les Routes dans Ruby on Rails: Définition, Optimisation et Personnalisation](https://clean-blog-production.up.railway.app/articles/maitriser-les-routes-dans-ruby-on-rails-definition-optimisation-et-personnalisation)
-* [Élever à un Nouveau Niveau votre Développement Rails avec RSpec et le TDD](https://clean-blog-production.up.railway.app/articles/elever-a-un-nouveau-niveau-votre-developpement-rails-avec-rspec-et-le-tdd)
 
 <br />
 
