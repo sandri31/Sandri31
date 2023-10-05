@@ -28,7 +28,6 @@ grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https:
 * [Méthodes de Classe et d'Instance dans Ruby on Rails : Une Balade à Vélo](https://clean-blog-production.up.railway.app/articles/methodes-de-classe-et-d-instance-dans-ruby-on-rails-une-balade-a-velo)
 * [7 Conseils pour Optimiser Votre Application Rails](https://clean-blog-production.up.railway.app/articles/7-conseils-pour-optimiser-votre-application-rails)
 * [Intégrer Bootstrap à Rails 7 : Une Approche Sans Node.js](https://clean-blog-production.up.railway.app/articles/integrer-bootstrap-a-rails-7-une-approche-sans-node-js)
-* [Plongée dans le processus de création d'une newsletter](https://clean-blog-production.up.railway.app/articles/plongee-dans-le-processus-de-creation-d-une-newsletter)
 
 <br />
 
