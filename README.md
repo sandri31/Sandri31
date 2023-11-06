@@ -24,10 +24,10 @@ grâce à la section Contact, ou à me joindre directement sur [LinkedIn](https:
 
 #### 📖 &nbsp;&nbsp;Mes 4 derniers articles
 
+* [Un Cheat Sheet pour les Méthodes Incontournables avec une touche de Programmation Fonctionnelle](https://clean-blog-production.up.railway.app/articles/un-cheat-sheet-pour-les-methodes-incontournables-avec-une-touche-de-programmation-fonctionnelle)
 * [Lancer un Serveur Rails : La Traditionnelle et la Nouvelle Méthode avec Rails 7](https://clean-blog-production.up.railway.app/articles/lancer-un-serveur-rails-la-traditionnelle-et-la-nouvelle-methode-avec-rails-7)
 * [Service Objects dans Ruby on Rails : Un Code Plus Propre et Plus Efficace](https://clean-blog-production.up.railway.app/articles/service-objects-dans-ruby-on-rails-un-code-plus-propre-et-plus-efficace)
 * [Méthodes de Classe et d'Instance dans Ruby on Rails : Une Balade à Vélo](https://clean-blog-production.up.railway.app/articles/methodes-de-classe-et-d-instance-dans-ruby-on-rails-une-balade-a-velo)
-* [7 Conseils pour Optimiser Votre Application Rails](https://clean-blog-production.up.railway.app/articles/7-conseils-pour-optimiser-votre-application-rails)
 
 <br />
 
